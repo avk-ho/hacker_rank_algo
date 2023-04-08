@@ -1,8 +1,9 @@
+# https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true
+
 # page 1 always on the right page (0 | 1)
 # n pages in the book, p target page
 
 # p = (2 * x) + 1
-# n - p = (2 * y) # even/odd p important, even/odd n too ?
 
 def minimum_pages_turned(n, p):
     nb_pages_from_start = 0

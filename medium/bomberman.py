@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/bomber-man/problem?isFullScreen=true
+
 import random
 
 def bomberman_game(matrix, t):

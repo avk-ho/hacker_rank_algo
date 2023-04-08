@@ -6,6 +6,8 @@ import random
 # b is the position of the orange tree
 # apples and oranges lists contains distances d where they fall
 
+# https://www.hackerrank.com/challenges/apple-and-orange?isFullScreen=true
+
 # a < s < t < b
 
 def count_apples_and_oranges(s, t, a, b, apples, oranges):

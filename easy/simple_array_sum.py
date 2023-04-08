@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
+
 def simpleArraySum(arr):
     return sum(arr)
 

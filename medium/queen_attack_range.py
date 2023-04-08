@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true
+
 def queen_attack_range(board_size, queen_coor, obstacles):
     def check_top(new_y):
         return new_y <= board_size

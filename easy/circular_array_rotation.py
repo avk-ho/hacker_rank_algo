@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true
+
 def circular_array_rotation(arr, nb_rotation, queries):
     rotated_arr = [None for _ in arr]
     for idx in range(len(arr)):

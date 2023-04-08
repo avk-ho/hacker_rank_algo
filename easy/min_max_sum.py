@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true
+
 import random
 
 def mini_max_sum(arr):

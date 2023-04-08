@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+
 import random
 
 # 0 <= grade <= 100

@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true
+
 # switch of calendar in Russia 31/01/1918 => 14/02/1914 (the next day)
 # leap year (gregorian): divisible by 400; divisible by 4 but not 100
 # leap year (julian): divisible by 4

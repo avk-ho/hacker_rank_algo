@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/palindrome-index/problem?isFullScreen=true
+
 def palindrome_index(st):
     def verify_palindrome(st):
         i, j = 0, len(st) - 1

@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true
+
 def organize_containers(*args):
     containers = [container for container in args]
     total_per_idx = {}

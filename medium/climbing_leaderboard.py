@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true
+
 def climbing_leaderboard(ranked, player):
     def update_ranked(ranked, new_score):
         ranked.append(new_score)

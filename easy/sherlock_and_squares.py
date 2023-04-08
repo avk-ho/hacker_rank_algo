@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/sherlock-and-squares?isFullScreen=true
+
 import math
 import random
 

@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true
+
 # 2 operations possible: 
 # append a letter at the end of the string
 # delete a letter at the end of the string

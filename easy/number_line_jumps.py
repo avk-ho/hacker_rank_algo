@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
+
 import random
 
 # x1, x2 are the starting position of each respective kangaroos

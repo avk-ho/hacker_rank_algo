@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/absolute-permutation/problem?isFullScreen=true
+
 import random
 
 class Node:
@@ -18,6 +20,7 @@ class Node:
 
 
 def valid_absolute_permutation(n, k):
+    
     # create a binary tree, given the head node
     # with left and right nodes given values from the pairs dict
     # for each pos/level of the tree

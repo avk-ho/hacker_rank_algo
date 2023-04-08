@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
+
 def solveMeFirst(a, b):
     return a + b
 

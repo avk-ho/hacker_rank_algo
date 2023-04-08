@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true
+
 def save_the_prisoner(nb_prisoners, nb_sweets, starting_chair):
     current_chair = starting_chair
     nb_sweets -= 1

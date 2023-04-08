@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
+
 import random
 
 def staircase(n):

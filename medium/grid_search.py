@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true
+
 import random
 
 def grid_search(grid, target):
